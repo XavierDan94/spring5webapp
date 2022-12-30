@@ -19,6 +19,10 @@ npm-debug.log.*
 .sass-cache/
 
 ######################
+# application property
+######################
+src/main/resources/application.properties
+######################
 # Eclipse
 ######################
 *.pydevproject
